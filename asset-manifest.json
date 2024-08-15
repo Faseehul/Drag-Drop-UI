@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Drag-Drop-UI/static/css/main.55e0efc0.css",
+    "main.js": "/Drag-Drop-UI/static/js/main.4444f3df.js",
+    "static/js/453.c27d502b.chunk.js": "/Drag-Drop-UI/static/js/453.c27d502b.chunk.js",
+    "index.html": "/Drag-Drop-UI/index.html",
+    "main.55e0efc0.css.map": "/Drag-Drop-UI/static/css/main.55e0efc0.css.map",
+    "main.4444f3df.js.map": "/Drag-Drop-UI/static/js/main.4444f3df.js.map",
+    "453.c27d502b.chunk.js.map": "/Drag-Drop-UI/static/js/453.c27d502b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e0efc0.css",
+    "static/js/main.4444f3df.js"
+  ]
+}
